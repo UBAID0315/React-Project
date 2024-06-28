@@ -42,6 +42,6 @@
   </ol>
 
   
-  <p>Find this project on GitHub: <a href="https://github.com/your-username/your-repo">GitHub Repository</a></p>
+  <p>Find this project on GitHub: <a href="https://github.com/UBAID0315/React-Project">GitHub Repository</a></p>
 </body>
 </html>

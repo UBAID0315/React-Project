@@ -1,46 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>React App README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 5px;
-      border-radius: 3px;
-    }
-    pre {
-      background-color: #f8f8f8;
-      padding: 10px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-    }
-    ul {
-      list-style-type: disc;
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1>React App README</h1>

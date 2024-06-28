@@ -40,12 +40,7 @@
     <li>Push to the branch: <code>git push origin feature-name</code></li>
     <li>Submit a pull request.</li>
   </ol>
-  
-  <h2>License</h2>
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-  
-  <h2>Contact</h2>
-  <p>For questions or feedback, you can reach out to <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+
   
   <p>Find this project on GitHub: <a href="https://github.com/your-username/your-repo">GitHub Repository</a></p>
 </body>
